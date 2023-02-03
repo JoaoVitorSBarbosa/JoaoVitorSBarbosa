@@ -12,6 +12,8 @@
 
 - :electric_plug: I love designing electronic projects and embedded systems.
 
+- :computer: Work with full stack development for web applications.
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,7 +31,7 @@
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorSBarbosa&theme=transparent&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSBarbosa&layout=compact&theme=transparent&card_width=400&card_height=400)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSBarbosa&layout=compact&theme=transparent&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 
 
  ## See more in my linkedIn:
