@@ -30,7 +30,7 @@
 ---
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorSBarbosa&theme=transparent&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVitorSBarbosa&theme=transparent&show_icons=true&card_width=380)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSBarbosa&layout=compact&theme=transparent&card_width=380)](https://github.com/anuraghazra/github-readme-stats)
 
 
