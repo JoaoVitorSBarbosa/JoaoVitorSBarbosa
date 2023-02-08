@@ -35,7 +35,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorSBarbosa&layout=compact&theme=transparent&card_width=385)](https://github.com/anuraghazra/github-readme-stats)
 
 
- ## See more in my linkedIn:
+ ## Contact:
   <a href="https://www.linkedin.com/in/joaovitorsbarbosa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:jvsb2017@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
