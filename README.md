@@ -6,13 +6,13 @@
 
 # About me:
 
-- :gear: I’m control and automation engineering and electronics technician.
+- :gear: I’m control and automation engineering student and electronics technician.
 
 - :robot: Experienced in  development of combat and autonomous robots.
 
 - :electric_plug: I love designing electronic projects and embedded systems.
 
-- :computer: Work with full stack development for web applications.
+- :computer: Work with full stack development.
 
 
 ### :hammer_and_wrench: Languages and Tools :
